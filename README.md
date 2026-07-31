@@ -2,7 +2,7 @@
 
 **Revenue Architect.** I build the machinery that turns customer conversations into revenue a CFO can forecast.
 
-26 years in enterprise sales: VP Sales EMEA at ABBYY, CCO at RedLab, now founder and CEO at SalesAI. In the last three years I have launched or rescued 200+ AI pilots. Most of the failed ones died for the same reason, and it was never the model. It was that nobody owned the data structure underneath.
+26 years in enterprise sales: VP Sales EMEA at ABBYY LS, CCO at RedLab, now founder and CEO at SalesAI. In the last three years I have launched or rescued 200+ AI pilots. Most of the failed ones died for the same reason, and it was never the model. It was that nobody owned the data structure underneath.
 
 Based in Valencia, Spain. Open to Forward Deployed Engineer and AI GTM roles in EU and US.
 
