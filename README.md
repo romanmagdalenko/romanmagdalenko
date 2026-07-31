@@ -1,10 +1,10 @@
 # Roman Magdalenko
 
-**Revenue Architect.** I build the machinery that turns customer conversations into revenue a CFO can forecast.
+**Founding Deployment Strategist.** I build the pilot-to-production systems for Revenue AI startups, which is the stretch where most of them stall.
 
-26 years in enterprise sales: VP Sales EMEA at ABBYY LS, CCO at RedLab, now founder and CEO at SalesAI. In the last three years I have launched or rescued 200+ AI pilots. Most of the failed ones died for the same reason, and it was never the model. It was that nobody owned the data structure underneath.
+26 years in enterprise sales: VP Sales EMEA at ABBYY LS, CCO at RedLab, now founder and CEO at SalesAI. 54 enterprise deployments, and in the last three years 200+ AI pilots launched or rescued. Most of the failed ones died for the same reason, and it was never the model. It was that nobody owned the data structure underneath.
 
-Based in Valencia, Spain. Open to Forward Deployed Engineer and AI GTM roles in EU and US.
+Based in Valencia, Spain. Open to roles here or remote.
 
 Most of my production code lives in private repos. What I can open, I put here.
 
@@ -34,4 +34,4 @@ TypeScript, React, Node. Cloudflare Workers, D1, KV, R2. Python. Postgres. Claud
 
 ## Reach me
 
-[LinkedIn](https://linkedin.com/in/romanmagdalenko) ¬∑ [smartsales.ai](https://smartsales.ai) ¬∑ [Book 30 minutes](https://cal.com/roman-smartsales/30min)
+[LinkedIn](https://linkedin.com/in/romanmagdalenko) · [smartsales.ai](https://smartsales.ai) · [Book 30 minutes](https://cal.com/roman-smartsales/30min)
