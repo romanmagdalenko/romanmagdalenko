@@ -1,8 +1,8 @@
 # Roman Magdalenko
 
-**Founding Deployment Strategist.** I build the pilot-to-production systems for Revenue AI startups, which is the stretch where most of them stall.
+Founding Deployment Strategist. I build the pilot-to-production systems for Revenue AI startups, which is the stretch where most of them stall.
 
-26 years in enterprise sales: VP Sales EMEA at ABBYY LS, CCO at RedLab, now founder and CEO at SalesAI. 54 enterprise deployments, and in the last three years 200+ AI pilots launched or rescued. Most of the failed ones died for the same reason, and it was never the model. It was that nobody owned the data structure underneath.
+26 years in enterprise sales: VP Sales EMEA at ABBYY LS, CCO at RedLab, now founder and CEO at SalesAI. 54 enterprise deployments, and in the last three years 200+ AI pilots launched or rescued.
 
 Based in Valencia, Spain. Open to roles here or remote.
 
