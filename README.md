@@ -23,6 +23,16 @@ Most of my production code lives in private repos. What I can open, I put here.
 - Claude Code as an operating system: skills, memory architecture, crons. One founder running sales, marketing and product on it.
 - Sales methodology as code. MEDDIC, SPICED and BANT are not slides for me, they are schemas.
 
+## How the three repositories fit together
+
+They are not a portfolio. They are one argument in three parts: what is true
+([the knowledge graph](https://github.com/romanmagdalenko/castle-graph-engine)),
+what happened ([the behaviour layer](https://github.com/romanmagdalenko/crm-on-cloudflare)),
+and how one person executes against both ([the skills](https://github.com/romanmagdalenko/claude-gtm-skills)).
+
+All three were built before there was a business model to justify them, which is
+the point. The reasoning: [Designing for Optionality](https://smartsales.ai/en/writing/designing-for-optionality/).
+
 ## Writing
 
 - [smartsales.ai](https://smartsales.ai) - Revenue Architecture, in English.
