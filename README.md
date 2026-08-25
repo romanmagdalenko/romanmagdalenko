@@ -12,7 +12,11 @@ Most of my production code lives in private repos. What I can open, I put here.
 
 **SalesAI** - Revenue Intelligence platform. The approach we sell is Managed Revenue Growth: a proprietary LLM sits on a sales knowledge graph of 70+ entity nodes, pulls 19 entities out of every customer conversation, writes them back into the CRM, and turns that into a forecast, a risk list and a coaching plan for each rep. Speech analytics answers how the call went. The graph answers where the money is.
 
-**[tourdecastles.com](https://tourdecastles.com)** - 890+ castle pages in three languages, built by one person. A 23,700-note research vault, a Wikidata import, a graph indexer, and a grounding gate that refuses to publish a claim without a source. Runs on Cloudflare free tier. The CRM behind it runs there too.
+**[tourdecastles.com](https://tourdecastles.com)** - Tour de Castles a tourism demand-distribution platform for Europe's overlooked destinations. It turns castles, cycling routes and local heritage into reasons to travel beyond the usual hotspots, then measures whether that attention becomes actual visits and local economic activity.
+
+The product combines 900+ castle pages, route data, a 23,700-note research vault, Wikidata and a grounded knowledge graph with a behavioural layer that tracks discovery, trip intent and destination engagement.
+
+The long-term metric is not pageviews. It is **incremental visitor spending redirected to underserved territories** - proving that digital discovery can move tourism demand, not just describe places.
 
 **[smartsales.ai](https://smartsales.ai)** - my English writing on revenue architecture, and the EN/ES content engine that ships it.
 
