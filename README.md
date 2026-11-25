@@ -1,6 +1,6 @@
 # Roman Magdalenko
 
-Founding Deployment Strategist. I build the pilot-to-production systems for Revenue AI startups, which is the stretch where most of them stall.
+Founding Deployment Strategist. I build pilot-to-production systems for enterprise AI companies, with a focus on Conversation Intelligence, Revenue Intelligence and agentic AI. The stretch between a successful pilot and a repeatable, profitable deployment is where most companies stall.
 
 26 years in enterprise sales: VP Sales EMEA at ABBYY LS, CCO at RedLab, now founder and CEO at SalesAI. 54 enterprise deployments, and in the last three years 200+ AI pilots launched or rescued.
 
@@ -10,7 +10,11 @@ Most of my production code lives in private repos. What I can open, I put here.
 
 ## Now building
 
-**SalesAI** - Revenue Intelligence platform. The approach we sell is Managed Revenue Growth: a proprietary LLM sits on a sales knowledge graph of 70+ entity nodes, pulls 19 entities out of every customer conversation, writes them back into the CRM, and turns that into a forecast, a risk list and a coaching plan for each rep. Speech analytics answers how the call went. The graph answers where the money is.
+**SalesAI** - Conversation Intelligence and Revenue Intelligence platform for enterprise sales teams. The approach we sell is Managed Revenue Growth: a proprietary LLM sits on a sales knowledge graph of 70+ entity nodes, pulls 19 entities out of every customer conversation, writes them back into the CRM, and turns that into a forecast, a risk list and a coaching plan for each rep.
+
+The platform combines speech analytics, CRM automation, deal intelligence, pipeline risk assessment and AI sales coaching.
+
+Speech analytics answers how the call went. The graph answers where the money is.
 
 **[tourdecastles.com](https://tourdecastles.com)** - Tour de Castles a tourism demand-distribution platform for Europe's overlooked destinations. It turns castles, cycling routes and local heritage into reasons to travel beyond the usual hotspots, then measures whether that attention becomes actual visits and local economic activity.
 
@@ -26,6 +30,9 @@ The long-term metric is not pageviews. It is **incremental visitor spending redi
 - Revenue systems: CRM as an event pipeline (firehose into D1), anonymous-to-contact stitching, an AI SDR that runs outbound without a human in the loop.
 - Claude Code as an operating system: skills, memory architecture, crons. One founder running sales, marketing and product on it.
 - Sales methodology as code. MEDDIC, SPICED and BANT are not slides for me, they are schemas.
+- Enterprise AI deployment: customer discovery, use-case qualification, pilot design, production rollout, adoption and measurable ROI.
+- Conversation and revenue intelligence: speech analytics, conversation-to-CRM automation, deal scoring, forecasting and AI sales coaching.
+- AI agent systems: agent orchestration, MCP integrations, knowledge grounding, workflow automation and GTM engineering.
 
 ## How the three repositories fit together
 
