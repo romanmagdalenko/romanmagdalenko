@@ -20,9 +20,11 @@ Speech analytics answers how the call went. The graph answers where the money is
 
 The platform combines a grounded destination knowledge graph, around 900 castle guides, curated GPX routes, Wikidata and transport data. Its planning engine is designed to build feasible itineraries around cultural heritage, nature and local experiences, taking travel time, opening hours, transport constraints and source provenance into account.
 
-The architecture is bring-your-own-model (BYOM): travelers connect their preferred AI assistant through Model Context Protocol (MCP), while hotels, tour operators and destination organizations can integrate planning capabilities through APIs or branded widgets. The model handles inference; TdC provides domain knowledge, routing tools and grounding. Consumer connector rollout and itinerary quality validation are in progress.
+The architecture is bring-your-own-model (BYOM): travelers connect their preferred AI assistant through Model Context Protocol (MCP), while hotels, tour operators and destination organizations can integrate planning capabilities through APIs or branded widgets. The model handles inference; TdC provides domain knowledge, routing tools and grounding.
 
-The business goal is to help partners convert existing travel intent into longer stays, booking referrals and visits beyond crowded hotspots. The long-term metric is incremental visitor spending redirected to underserved territories, not pageviews.
+**[Tour de Castles MCP Server](https://app.tourdecastles.com/mcp/me/)** - an OAuth-protected remote MCP endpoint designed to give AI assistants direct access to our destination knowledge graph, travel data and itinerary planning tools. Rather than building another standalone AI chatbot, we are building domain-specific infrastructure that compatible AI agents can use to discover destinations, retrieve grounded information and construct feasible travel plans. Consumer connector rollout and itinerary quality validation are in progress.
+
+The business goal is to help partners convert existing travel intent into longer stays, booking referrals and visits beyond crowded hotspots. The long-term metric is **incremental visitor spending redirected to underserved territories**, not pageviews.
 
 **[smartsales.ai](https://smartsales.ai)** - my English writing on revenue architecture, and the EN/ES content engine that ships it.
 
